@@ -1,4 +1,4 @@
-; Functions in Scala without using built in functions
+; Functions in Scheme without using built in functions
 ; By: Christian Magpantay
 ; Code Referenced: The Scheme Programming Language, 4th Edition
 ; Author: R. Kent Dybvig
